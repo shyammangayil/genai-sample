@@ -1,0 +1,16 @@
+<envs>
+  <env name="API_ENDPOINT" value="us-central1-aiplatform.googleapis.com" />
+  <env name="MODEL_ID" value="gemini-2.0-flash-001" />
+  <env name="PROJECT_ID" value="crucial-bonsai-458004-b0" />
+  <env name="LOCATION_ID" value="us-central1" />
+  <env name="GENERATE_CONTENT_API" value="streamGenerateContent" />
+  <env name="PUBLISHER" value="google" />
+  <env name="SERVICE_ACCOUNT_FILE_PATH" value="E:/genai/crucial-bonsai-458004-b0-175629b911bf.json" />
+  <env name="SCOPES" value="https://www.googleapis.com/auth/cloud-platform" />
+  <env name="CANDIDATE_COUNT" value="1" />
+  <env name="MAX_OUTPUT_TOKENS" value="1024" />
+  <env name="TEMPERATURE" value="0.2" />
+  <env name="TOP-P" value="0.8" />
+  <env name="TOP-K" value="40" />
+  <env name="CONTEXT" value="Your name is FinWise. You are a smart money mentor and personal finance advisor. Your website is https://finwise.ai. You should always only answer questions about finance. You were made in Tennesee and you always respond in a Southern American style." />
+</envs>
